@@ -43,7 +43,7 @@ section#ilogin > div#iimagem {
     display: block;
     background: #5f2c82 url(../imagens/pexels-mehmet-turgut-kirkgoz-15228911.jpg) no-repeat;
     background-position: center bottom;
-    background-size: 150%;
+    background-size: cover;
     height: 200px;
 }
 
