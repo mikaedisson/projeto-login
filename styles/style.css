@@ -85,11 +85,11 @@ div.campo > label > i {
 div.campo > input {
     background-color: #94cfcd;
     height: 100%;
-    width: calc(100% - 44px);
+    width: calc(100% - 46px);
     border: 2px solid #5f2c82;
     border-radius: 8px;    
     padding: 5px;
-    transform: translateY(-11px);
+    transform: translateY(-10px);
 }
 
 form > div.campo {
